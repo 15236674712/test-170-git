@@ -33,13 +33,20 @@ public class Test170GitApplicationTests {
         String str="hahaha";
         String st="hehehe";
         String sss=str+a;
+
         System.out.println("==这是开发者b写的代码");
         System.out.println("==这是开发者a写的代码");
+
+        System.out.println("==这是开发者b写的代码");
+        System.out.println("==这是开发者b写的代码");
         System.out.println("==这是开发者b写的代码");
 
         System.out.println("==这是开发者a写的代码");
         System.out.println("==这是开发者a写的代码");
+        System.out.println("==这是开发者b写的代码");
         System.out.println("==这是开发者a写的代码");
+
+
 
     }
 
