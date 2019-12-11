@@ -26,6 +26,13 @@ public class Test170GitApplicationTests {
         System.out.println("==我又修改了一行==");
         System.out.println("==我又修改了一行==a");
 
+        System.out.println("==这是开发者b写的代码");
+        String str="hahaha";
+        String st="hehehe";
+        int a=200;
+        String sss=str+a;
+        System.out.println("==这是开发者b写的代码");
+
     }
 
 }
