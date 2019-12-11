@@ -5,4 +5,6 @@ import com.baizhi.entity.Album;
 public interface AlbumDao {
 
     Album queryById(String id);
+
+    Album queryByAll(String id);
 }
