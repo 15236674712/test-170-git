@@ -6,5 +6,7 @@ import java.util.List;
 
 public interface BannerDao {
 
-    List<Banner> queryaLL();
+    List<Banner> queryall();
+    List<Banner> FindAll();
+    List<Banner> queryById();
 }
