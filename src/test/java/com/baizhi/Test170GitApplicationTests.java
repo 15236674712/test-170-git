@@ -22,6 +22,7 @@ public class Test170GitApplicationTests {
         System.out.println("===");
         System.out.println("===");
         System.out.println("aaaa");
+       System.out.println("bbbb");
 
     }
 
