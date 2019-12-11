@@ -9,4 +9,5 @@ public interface BannerDao {
     List<Banner> queryall();
     List<Banner> FindAll();
     List<Banner> queryById();
+    List<Banner> queryFind();
 }
