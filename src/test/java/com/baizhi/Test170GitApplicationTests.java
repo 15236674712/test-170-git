@@ -31,6 +31,7 @@ public class Test170GitApplicationTests {
         String st="hehehe";
         int a=200;
         String sss=str+a;
+        String ggg=str+a;
         System.out.println("==这是开发者b写的代码");
 
     }
