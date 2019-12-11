@@ -37,6 +37,10 @@ public class Test170GitApplicationTests {
         System.out.println("==这是开发者a写的代码");
         System.out.println("==这是开发者b写的代码");
 
+        System.out.println("==这是开发者a写的代码");
+        System.out.println("==这是开发者a写的代码");
+        System.out.println("==这是开发者a写的代码");
+
     }
 
 }
