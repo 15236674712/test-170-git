@@ -26,18 +26,15 @@ public class Test170GitApplicationTests {
         System.out.println("==我又修改了一行==");
 
 
-
         System.out.println("==这是开发者a写的代码");
         int a=100;
         int b=200;
         int c=a+b;
-        System.out.println("==这是开发者a写的代码");
-
-        System.out.println("==这是开发者b写的代码");
         String str="hahaha";
         String st="hehehe";
-        int a=200;
         String sss=str+a;
+        System.out.println("==这是开发者b写的代码");
+        System.out.println("==这是开发者a写的代码");
         System.out.println("==这是开发者b写的代码");
 
     }
